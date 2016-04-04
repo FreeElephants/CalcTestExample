@@ -2,6 +2,10 @@
   "name": "calc-test-example",
   "description": "Example of ts-x-unit framework usage. Version according with ts-x-unit",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:FreeElephants/CalcTestExample.git"
+  },
   "dependencies": {
     "typescript": "1.8.9",
     "typings": "0.7.9"
