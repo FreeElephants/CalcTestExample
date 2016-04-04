@@ -1,0 +1,10 @@
+# IDE
+.idea
+
+# compiled output
+tests/tests.js
+index.js
+
+# vendors
+node_modules
+typings

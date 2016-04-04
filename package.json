@@ -1,0 +1,29 @@
+{
+  "name": "calc-test-example",
+  "description": "Example of ts-x-unit framework usage. Version according with ts-x-unit",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "1.8.9",
+    "typings": "0.7.9"
+  },
+  "devDependencies": {
+    "ts-x-unit": "0.0.8"
+  },
+  "scripts": {
+    "typings": "typings",
+    "launch-builder": "launch-builder",
+    "pretest": "launch-builder tests/ && tsc -p tests/",
+    "test": "node tests/tests.js"
+  },
+  "keywords": [
+    "unit",
+    "testing",
+    "typescript",
+    "xunit",
+    "example",
+    "ts-x-unit"
+  ],
+  "author": "samizdam",
+  "license": "BSD-2-Clause",
+  "version": "0.0.8"
+}

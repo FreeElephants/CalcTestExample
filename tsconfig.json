@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "out": "index.js"
+  },
+  "exclude": [
+    "node_modules",
+    "tests",
+    "typings/browser.d.ts",
+    "typings/browser"
+  ]
+}
