@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+    - "5"
+
+before_script:
+    - "npm run typings install"
+    - "npm run build"
+
+script:
+    - "npm test"
