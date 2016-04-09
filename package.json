@@ -10,9 +10,6 @@
     "typescript": "1.8.9",
     "typings": "0.7.9"
   },
-  "devDependencies": {
-    "ts-x-unit": "0.0.8"
-  },
   "scripts": {
     "typings": "typings",
     "launch-builder": "launch-builder",
@@ -29,5 +26,8 @@
   ],
   "author": "samizdam",
   "license": "BSD-2-Clause",
-  "version": "0.0.8"
+  "version": "0.2.1",
+  "devDependencies": {
+    "ts-x-unit": "^0.2.1"
+  }
 }
