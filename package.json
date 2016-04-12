@@ -26,8 +26,8 @@
   ],
   "author": "samizdam",
   "license": "BSD-2-Clause",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "devDependencies": {
-    "ts-x-unit": "^0.2.1"
+    "ts-x-unit": "0.3.1"
   }
 }
