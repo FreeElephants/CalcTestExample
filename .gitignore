@@ -7,4 +7,6 @@ index.js
 
 # vendors
 node_modules
+npm-debug.log
 typings
+
