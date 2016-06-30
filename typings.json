@@ -2,7 +2,7 @@
   "name": "calc-test-example",
   "version": false,
   "dependencies": {},
-  "ambientDependencies": {
+  "globalDependencies": {
     "node": "registry:dt/node#4.0.0+20160319033040"
   }
 }
